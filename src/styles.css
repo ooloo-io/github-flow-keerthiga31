@@ -19,6 +19,9 @@ body {
 }
 .content {
   min-height: calc(100vh - 100px);
+  width: 720px;
+  max-width: fit-content;
+  margin: auto;
 }
 .section {
   height: 450px;
